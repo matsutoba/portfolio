@@ -19,3 +19,10 @@
   - OpenAI API
 - Gitリポジトリ
   - https://github.com/matsutoba/open-ai-rag
+
+### multi-select-and-dnd
+- Reactを使った複数オブジェクトのドラッグ&ドロップ
+- 技術スタック
+  - React, TypeScript
+- Gitリポジトリ
+  - https://github.com/matsutoba/multi-select-and-dnd
