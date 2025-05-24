@@ -11,6 +11,14 @@
     - Golang, Gin, Gorm, MySQL(Docker)
 - Gitリポジトリ
   - https://github.com/matsutoba/todo-app
+
+### Web用語をGeminiで調査し自動投稿するシステム
+- Googleスプレッドシート作成しておいた単語リストから毎日1語をGoogle Geminiで調査し、Xに投稿するシステム
+- 技術スタック
+  - Google Cloud Platform (AppScripts, Vertex AI API)
+  - X API
+- Xアカウント
+  - https://x.com/newtechword
   
 ### OpenAI RAG
 - OpenAIのAPIを使い、Webページ内容から回答を行うRAG
