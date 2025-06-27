@@ -17,6 +17,8 @@
 - 技術スタック
   - Google Cloud Platform (AppScripts, Vertex AI API)
   - X API
+- Gitリポジトリ
+  - https://github.com/matsutoba/ai-word-reporter 
 - Xアカウント (2025/05/24以降のポスト)
   - https://x.com/newtechword
   
